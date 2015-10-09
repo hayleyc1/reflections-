@@ -1,0 +1,7 @@
+I should use diff to find bugs because it is a lot easier and quicker than manually looking through your files. It also makes it so the bugs are more noticable and easier to spot. 
+It makes it so if something goes wrong, or you change your mind about something you and easily look through and see where and when you went wrong.
+Some of the pros of using commits are that you get to choose when to commit and all of them are shown serarately. A con is it's easy to forget and get too much on one commit. Pros of google docs are that it saves automaticly so you don't have to worry about that. A con is that it's hard to see all the changes you made. You can only see the time. 
+I think that git lets you save multiple files in one commit because with some files, they might be related but can't go in the same file. Google docs doesn't let you do that because google docs wasn't made for coding. It was made for typing documents that aren't connected. 
+First you need to get into the right directory then you type "git log" so you can see all the commits that have happened recently. Next find the one you want and use "git diff" to see all changes.
+With version control you know that you will be able to come back and see  it later on. You can see all the differences and you can see where you made the change.
+I want to use git to keep track of all my commits and files. That will make them easier to access.
