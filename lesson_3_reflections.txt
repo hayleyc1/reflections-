@@ -1,1 +1,1 @@
-
+It is better to pull manually so you pull whenever you want to and it doesn't happen after every single change. 
