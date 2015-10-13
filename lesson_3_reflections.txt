@@ -1,1 +1,2 @@
-It is better to pull manually so you pull whenever you want to and it doesn't happen after every single change. 
+It is better to pull manually so you pull whenever you want to and it doesn't happen after every single change.
+A fork is basically making a clone but in github.You should use this when you want to make changes but the original person doesn't. A branch is where you add some code that is still part of your project, but not your main code. You use this if your not sure if you want to keep it. A clone is where you make a copy. You would use this whenever you want. 
